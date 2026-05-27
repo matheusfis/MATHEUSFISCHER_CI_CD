@@ -1,9 +1,6 @@
 # Exercício de Testes 
 
-## Objetivo
-
-onhecimentos sobre testes unitários. Ele está dividido em duas partes principais:
-
+## Objet
 ## Parte 1: Fazer todos os testes funcionarem
 
 Nesta primeira etapa, você deve:

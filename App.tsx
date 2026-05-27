@@ -12,7 +12,7 @@ export default function App() {
     </View>
   );
 }
-
+// teste
 const styles = StyleSheet.create({
   container: {
     flex: 1,
